@@ -14,6 +14,8 @@ Then, open another terminal and run the following command:
 python mosquitto.py YOUR_DOCKER_IP
 ```
 
+If an error occurs, make sure you have installed the "paho-mqtt" library using `pip install paho-mqtt`.
+
 ### Example
 
 ```
