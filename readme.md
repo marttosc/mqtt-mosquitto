@@ -28,3 +28,9 @@ If an error occurs, make sure you have installed the "paho-mqtt" library using `
 python mosquitto.py 172.0.0.1
 ```
 
+### What is and how it works
+
+MQTT is a lightweight messaging protocol that provides resource-constrained network clients with a simple way to distribute telemetry information. The protocol, which uses a publish/subscribe communication pattern, is used for machine-to-machine (M2M).
+
+The protocol allows devices to send (publish) information about a given topic to a server that functions as an MQTT message broker. The broker then pushes the information out to those clients that have previously subscribed to the client's topic.
+
