@@ -1,5 +1,11 @@
 # MQTT using Mosquitto
 
+This project has an academic purpose, but can be used to exemplify a basic implementation with MQTT.
+
+#### Student
+
+* Gustavo Marttos, 536202
+
 ### How-to
 
 Pull the Docker container running the following command:
